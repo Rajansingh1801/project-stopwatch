@@ -1,0 +1,43 @@
+body{
+    background-color: cyan;
+}
+.c1{
+    font-size:75px;
+    font-family: cursive;
+    color: rgb(137, 216, 73);
+    text-align: center;
+    text-shadow: 10px 2px 2px red;
+}
+.c2{
+   background-color: rgb(243, 139, 229);
+   border-radius: 25px;
+    height: 300px;
+    width: 700px;
+    margin: 50px auto 0;
+    position: relative;
+    border: 1px solid rgb(20, 20, 20);
+}
+.c3{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+    padding: 15px;
+}
+button{
+    font-size: x-large;
+    color: black;
+    border-radius: 12px;
+   
+}
+.btn-primary{
+    display: inline-block;
+    background-color: blue;
+}
+.btn-secondry{
+    display: inline-block;
+    background-color: yellow;
+}
+.btn-three{
+    display: inline-block;
+    background-color: rgb(182, 179, 154);
+}
